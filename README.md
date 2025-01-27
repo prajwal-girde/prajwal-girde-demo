@@ -1,2 +1,2 @@
-# prajwal-girde-demo
+# prajwalgirde-demo
 This is my first Git Repository
